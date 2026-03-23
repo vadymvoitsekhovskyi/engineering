@@ -1,5 +1,6 @@
 ﻿namespace solid
 {
+    // SRP, OCP, LSP
     public class PushSender : INotificationSender
     {
         public void Send(string message)
