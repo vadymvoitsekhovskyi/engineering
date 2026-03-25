@@ -17,22 +17,19 @@ namespace solid
 
             // LSP - кожен з сендерів повноцінно замінює INotificationSender
             // OCP - щоб додати новий канал, достатньо створити новий клас-сендер
-            INotificationSender emailSender = new EmailSender();
-
-            NotificationService emailService = new NotificationService(emailSender, repo, logger);
-            emailService.ProcessNotification(message);
-
-            INotificationSender telegramSender = new TelegramSender(); // OCP
-            NotificationService telegramService = new NotificationService(telegramSender, repo, logger);
-            telegramService.ProcessNotification(message);
-
-            INotificationSender pushSender = new PushSender();
-            NotificationService pushService = new NotificationService(pushSender, repo, logger);
-            pushService.ProcessNotification(message);
-
-            INotificationSender smsSender = new SmsSender();
-            NotificationService smsService = new NotificationService(smsSender, repo, logger);
-            smsService.ProcessNotification(message);
+            List<INotificationSender> senders = new List<INotificationSender>
+            {
+                new EmailSender(),
+                new TelegramSender(),
+                new PushSender(),
+                new SmsSender()
+            };
+            
+            foreach (var sender in senders)
+            {
+                NotificationService service = new NotificationService(sender, repo, logger);
+                service.ProcessNotification(message);
+            }
         }
     }
 }
