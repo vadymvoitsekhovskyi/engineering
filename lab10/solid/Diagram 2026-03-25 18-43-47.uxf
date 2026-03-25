@@ -1,0 +1,26 @@
+<diagram program="umletino" version="15.1"><zoom_level>8</zoom_level><element><id>UMLClass</id><coordinates><x>720</x><y>600</y><w>144</w><h>40</h></coordinates><panel_attributes>TelegramSender
+-
++Send(message: string) : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>488</x><y>488</y><w>144</w><h>40</h></coordinates><panel_attributes>/INotificationSender/
+-
++Send(message: string) : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>192</x><y>488</y><w>144</w><h>40</h></coordinates><panel_attributes>SmsSender
+-
++Send(message: string) : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>488</x><y>616</y><w>144</w><h>40</h></coordinates><panel_attributes>PushSender
+-
++Send(message: string) : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>328</x><y>272</y><w>464</w><h>96</h></coordinates><panel_attributes>NotificationService
+-
+-_sender : INotificationSender
+-_repository : INotificationRepository
+-_logger : ILogger
+-
++NotificationService(sender: INotificationSender, repository: INotificationRepository, logger: ILogger)
++ProcessNotification(message: string) : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>952</x><y>104</y><w>144</w><h>40</h></coordinates><panel_attributes>NotificationRepository
+-
++Save(message: string) : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>24</x><y>136</y><w>144</w><h>40</h></coordinates><panel_attributes>Logger
+-
++Log(message: string) : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>952</x><y>296</y><w>144</w><h>40</h></coordinates><panel_attributes>/INotificationRepository/
+-
++Save(message: string) : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>24</x><y>296</y><w>144</w><h>40</h></coordinates><panel_attributes>/ILogger/
+-
++Log(message: string) : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>952</x><y>488</y><w>144</w><h>40</h></coordinates><panel_attributes>EmailSender
+-
++Send(message: string) : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>160</x><y>312</y><w>184</w><h>24</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>210;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>784</x><y>312</y><w>184</w><h>24</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;210;10</additional_attributes></element><element><id>Relation</id><coordinates><x>552</x><y>520</y><w>24</w><h>112</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;10;120</additional_attributes></element><element><id>Relation</id><coordinates><x>88</x><y>168</y><w>24</w><h>144</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;160;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>328</x><y>504</y><w>176</w><h>24</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>200;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>624</x><y>504</y><w>344</w><h>24</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;410;10</additional_attributes></element><element><id>Relation</id><coordinates><x>552</x><y>360</y><w>24</w><h>144</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;160</additional_attributes></element><element><id>Relation</id><coordinates><x>784</x><y>504</y><w>24</w><h>112</h></coordinates><panel_attributes>lt=.</panel_attributes><additional_attributes>10;10;10;120</additional_attributes></element><element><id>Relation</id><coordinates><x>1016</x><y>136</y><w>24</w><h>176</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;200;10;10</additional_attributes></element></diagram>
