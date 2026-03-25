@@ -9,6 +9,6 @@ public class OfflineCourse : Course
 
     public override void ConductLesson()
     {
-        Console.WriteLine($"[Offline] Студенти зібралися в аудиторії. Лектор починає заняття '{Title}' біля дошки...\n");
+        Console.WriteLine($"[Offline] Студенти зібралися в аудиторії. Лектор починає заняття '{Title}' біля дошки.\n");
     }
 }

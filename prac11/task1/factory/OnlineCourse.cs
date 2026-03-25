@@ -9,6 +9,6 @@ public class OnlineCourse : Course
 
     public override void ConductLesson()
     {
-        Console.WriteLine($"[Online] Початок трансляції лекції '{Title}' в інтернеті...\n");
+        Console.WriteLine($"[Online] Початок трансляції лекції '{Title}' в інтернеті.\n");
     }
 }
