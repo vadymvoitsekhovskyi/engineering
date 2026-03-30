@@ -1,6 +1,6 @@
 ﻿namespace builder;
 
-public class Sandwich : ISandwich
+internal class Sandwich : ISandwich
 {
     public List<string> Ingredients { get; } = new List<string>();
 
