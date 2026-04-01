@@ -1,0 +1,34 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLGeneric</id><coordinates><x>100</x><y>36</y><w>100</w><h>30</h></coordinates><panel_attributes>_:Program_</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>140</x><y>56</y><w>30</w><h>780</h></coordinates><panel_attributes>lt=.</panel_attributes><additional_attributes>10;10;10;760</additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>370</x><y>116</y><w>200</w><h>30</h></coordinates><panel_attributes>_factory : UniversityCourseFactory_</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>460</x><y>136</y><w>30</w><h>700</h></coordinates><panel_attributes>lt=.</panel_attributes><additional_attributes>10;10;10;680</additional_attributes></element><element><id>UMLFrame</id><coordinates><x>100</x><y>216</y><w>1020</w><h>280</h></coordinates><panel_attributes>halign=left
+alt
+
+--
+[courseType == "online"]
+
+
+
+-.
+
+
+
+[courseType == "online"]
+
+
+
+-.
+
+[невідомий тип]</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>150</x><y>116</y><w>240</w><h>40</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-
+new UniversityCourseFactory()</panel_attributes><additional_attributes>220;20;10;20</additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>140</x><y>86</y><w>20</w><h>710</h></coordinates><panel_attributes></panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>150</x><y>176</y><w>330</w><h>40</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-
+CreateCourse(courseType)</panel_attributes><additional_attributes>310;20;10;20</additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>460</x><y>156</y><w>20</w><h>350</h></coordinates><panel_attributes></panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>690</x><y>236</y><w>210</w><h>30</h></coordinates><panel_attributes>_course : OnlineCourse_</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>780</x><y>256</y><w>30</w><h>580</h></coordinates><panel_attributes>lt=.</panel_attributes><additional_attributes>10;10;10;560</additional_attributes></element><element><id>Relation</id><coordinates><x>470</x><y>236</y><w>240</w><h>40</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-
+new OnlineCourse()</panel_attributes><additional_attributes>220;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>470</x><y>346</y><w>450</w><h>40</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-
+new OfflineCourse()</panel_attributes><additional_attributes>430;20;10;20</additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>900</x><y>346</y><w>210</w><h>30</h></coordinates><panel_attributes>_course : OfflineCourse_</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>150</x><y>276</y><w>330</w><h>40</h></coordinates><panel_attributes>lt=&lt;.
+об'єкт OnlineCourse</panel_attributes><additional_attributes>10;20;310;20</additional_attributes></element><element><id>Relation</id><coordinates><x>150</x><y>386</y><w>330</w><h>40</h></coordinates><panel_attributes>lt=&lt;.
+об'єкт OfflineCourse</panel_attributes><additional_attributes>10;20;310;20</additional_attributes></element><element><id>Relation</id><coordinates><x>150</x><y>456</y><w>330</w><h>40</h></coordinates><panel_attributes>lt=&lt;.
+throw ArgumentException</panel_attributes><additional_attributes>10;20;310;20</additional_attributes></element><element><id>Relation</id><coordinates><x>1000</x><y>366</y><w>30</w><h>470</h></coordinates><panel_attributes>lt=.</panel_attributes><additional_attributes>10;10;10;450</additional_attributes></element><element><id>Relation</id><coordinates><x>150</x><y>576</y><w>660</w><h>40</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-
+Title = "Основи програмування на C#"</panel_attributes><additional_attributes>640;20;10;20</additional_attributes></element><element><id>UMLFrame</id><coordinates><x>100</x><y>516</y><w>1020</w><h>270</h></coordinates><panel_attributes>halign=left
+opt
+
+--
+[Якщо курс створено успішно (на прикладі Online)]
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>150</x><y>636</y><w>660</w><h>40</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-
+EnrollStudent("Олександр")</panel_attributes><additional_attributes>640;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>150</x><y>696</y><w>660</w><h>40</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-
+ConductLesson()</panel_attributes><additional_attributes>640;20;10;20</additional_attributes></element></diagram>
