@@ -1,0 +1,180 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Сторінка-1" id="YHLDWKym1s6mpq30b-RN">
+    <mxGraphModel dx="1875" dy="711" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;fontFamily=Times New Roman;" value="" vertex="1">
+          <mxGeometry height="670" width="20" x="70" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 14px; text-align: start; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;mainCourse : Module&lt;/span&gt;" vertex="1">
+          <mxGeometry height="610" width="150" x="210" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-15" parent="NW9Oe9_1qbFnoSD5by6u-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Times New Roman;" value="" vertex="1">
+          <mxGeometry height="60" width="10" x="70" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-20" parent="NW9Oe9_1qbFnoSD5by6u-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Times New Roman;" value="" vertex="1">
+          <mxGeometry height="260" width="10" x="70" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 14px; text-align: start; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;basisModule : Module&lt;/span&gt;" vertex="1">
+          <mxGeometry height="560" width="150" x="390" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-11" parent="NW9Oe9_1qbFnoSD5by6u-4" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Times New Roman;" value="" vertex="1">
+          <mxGeometry height="60" width="10" x="70" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-24" parent="NW9Oe9_1qbFnoSD5by6u-4" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Times New Roman;" value="" vertex="1">
+          <mxGeometry height="160" width="10" x="70" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 14px; text-align: start; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;lesson1 : Lesson&lt;/span&gt;" vertex="1">
+          <mxGeometry height="510" width="120" x="570" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-27" parent="NW9Oe9_1qbFnoSD5by6u-5" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Times New Roman;" value="" vertex="1">
+          <mxGeometry height="60" width="10" x="55" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-6" edge="1" parent="1" source="NW9Oe9_1qbFnoSD5by6u-2" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontFamily=Times New Roman;" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;new Module(&quot;Курс&quot;)&lt;/font&gt;&lt;/span&gt;">
+          <mxGeometry relative="1" width="80" x="0.0031" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <mxPoint x="100" y="130" as="sourcePoint" />
+            <mxPoint x="211" y="131" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-7" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 13px; text-align: start;&quot;&gt;new Module(&quot;Основи&quot;)&lt;/span&gt;">
+          <mxGeometry relative="1" width="80" x="0.0031" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <mxPoint x="79" y="180" as="sourcePoint" />
+            <mxPoint x="390" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-9" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 13px; text-align: start;&quot;&gt;new Module(&quot;Основи&quot;)&lt;/span&gt;">
+          <mxGeometry relative="1" width="80" x="0.0031" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <mxPoint x="79" y="230" as="sourcePoint" />
+            <mxPoint x="570" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-10" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 13px; text-align: start;&quot;&gt;Add(lesson1)&lt;/span&gt;">
+          <mxGeometry relative="1" width="80" x="0.0031" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <mxPoint x="79" y="280" as="sourcePoint" />
+            <mxPoint x="460" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-13" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Times New Roman;" target="NW9Oe9_1qbFnoSD5by6u-11" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;_components.Add(lesson1)&lt;/span&gt;">
+          <mxGeometry relative="1" x="-0.9" y="13" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="470" y="290" />
+              <mxPoint x="500" y="290" />
+              <mxPoint x="500" y="310" />
+            </Array>
+            <mxPoint x="470" y="290" as="sourcePoint" />
+            <mxPoint x="475" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-14" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=Times New Roman;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="320" as="sourcePoint" />
+            <mxPoint x="79.66666666666652" y="319.99999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-16" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 13px; text-align: start;&quot;&gt;Add(basisModule)&lt;/span&gt;">
+          <mxGeometry relative="1" width="80" x="0.0031" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <mxPoint x="80" y="359.58" as="sourcePoint" />
+            <mxPoint x="279" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-17" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;_components.Add(basisModule)&lt;/span&gt;">
+          <mxGeometry relative="1" x="-1" y="17" as="geometry">
+            <mxPoint x="-3" as="offset" />
+            <Array as="points">
+              <mxPoint x="290" y="370" />
+              <mxPoint x="320" y="370" />
+              <mxPoint x="320" y="390" />
+            </Array>
+            <mxPoint x="290" y="370" as="sourcePoint" />
+            <mxPoint x="290" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-18" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=Times New Roman;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="400" as="sourcePoint" />
+            <mxPoint x="80" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-19" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 13px; text-align: start;&quot;&gt;Display(1)&lt;/span&gt;">
+          <mxGeometry relative="1" width="80" x="0.0031" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <mxPoint x="80" y="440" as="sourcePoint" />
+            <mxPoint x="279" y="440.42" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-22" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Console.WriteLine&lt;br&gt;(&quot;+ Модуль: Курс&quot;)&lt;/span&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="450" />
+              <mxPoint x="320" y="450" />
+              <mxPoint x="320" y="470" />
+            </Array>
+            <mxPoint x="290" y="450" as="sourcePoint" />
+            <mxPoint x="290" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-23" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 13px; text-align: start;&quot;&gt;Display(3)&lt;/span&gt;">
+          <mxGeometry relative="1" width="80" x="0.0031" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <mxPoint x="290" y="519.17" as="sourcePoint" />
+            <mxPoint x="460" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-25" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Console.WriteLine&lt;br&gt;(&quot;+ Модуль: Основи&quot;)&lt;/span&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="530" />
+              <mxPoint x="500" y="530" />
+              <mxPoint x="500" y="550" />
+            </Array>
+            <mxPoint x="470" y="530" as="sourcePoint" />
+            <mxPoint x="470" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-26" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 13px; text-align: start;&quot;&gt;Display(5)&lt;/span&gt;">
+          <mxGeometry relative="1" width="80" x="0.0031" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <mxPoint x="470" y="600" as="sourcePoint" />
+            <mxPoint x="623" y="599" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-28" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Console.WriteLine&lt;br&gt;(&quot;- Урок: Вступ до C#&quot;)&lt;/span&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="636" y="610" />
+              <mxPoint x="666" y="610" />
+              <mxPoint x="666" y="629" />
+            </Array>
+            <mxPoint x="636" y="610" as="sourcePoint" />
+            <mxPoint x="636" y="629" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-29" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=Times New Roman;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="624" y="640" as="sourcePoint" />
+            <mxPoint x="470" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-30" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=Times New Roman;" target="NW9Oe9_1qbFnoSD5by6u-20" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="660" as="sourcePoint" />
+            <mxPoint x="310" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW9Oe9_1qbFnoSD5by6u-31" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=Times New Roman;" target="NW9Oe9_1qbFnoSD5by6u-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="680" as="sourcePoint" />
+            <mxPoint x="110" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
