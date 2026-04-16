@@ -1,0 +1,16 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>430</x><y>570</y><w>360</w><h>90</h></coordinates><panel_attributes>basicSubscription : BasicSubscription
+-
+GetDescription() = "Basic Subscription"
+GetCost() = 8.99</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>430</x><y>390</y><w>360</w><h>90</h></coordinates><panel_attributes>hdDecorator : HdDecorator
+-
+GetDescription() = "Basic Subscription, HD"
+GetCost() = 10.99</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>430</x><y>210</y><w>360</w><h>90</h></coordinates><panel_attributes>offlineDecorator : OfflineDecorator
+-
+GetDescription() = "Basic Subscription, HD, Offline"
+GetCost() = 13.99</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>430</x><y>30</y><w>360</w><h>90</h></coordinates><panel_attributes>adFreeDecorator : AdFreeDecorator
+-
+GetDescription() = "Basic Subscription, HD, Offline, Ad-Free"
+GetCost() = 16.99</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>600</x><y>470</y><w>70</w><h>120</h></coordinates><panel_attributes>lt=&lt;-
+&lt;&lt;wraps&gt;&gt;</panel_attributes><additional_attributes>10;10;10;100</additional_attributes></element><element><id>Relation</id><coordinates><x>600</x><y>290</y><w>70</w><h>120</h></coordinates><panel_attributes>lt=&lt;-
+&lt;&lt;wraps&gt;&gt;</panel_attributes><additional_attributes>10;10;10;100</additional_attributes></element><element><id>Relation</id><coordinates><x>600</x><y>110</y><w>70</w><h>120</h></coordinates><panel_attributes>lt=&lt;-
+&lt;&lt;wraps&gt;&gt;</panel_attributes><additional_attributes>10;10;10;100</additional_attributes></element></diagram>
