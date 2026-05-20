@@ -1,0 +1,37 @@
+<diagram program="umletino" version="15.1"><zoom_level>9</zoom_level><element><id>UMLClass</id><coordinates><x>459</x><y>28</y><w>216</w><h>81</h></coordinates><panel_attributes>Director
+-
+-_builder : ISandwichBuilder
+-
++Director(builder : ISandwichBuilder)
++BuildSandwich() : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>369</x><y>388</y><w>216</w><h>117</h></coordinates><panel_attributes>MeatLoversBuilder
+-
+-_sandwich : Sandwich
+-
++AddBread() : ISandwichBuilder
++AddMeat() : ISandwichBuilder
++AddVegetables() : ISandwichBuilder
++AddSauce() : ISandwichBuilder
++GetSandwich() : ISandwich</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>675</x><y>190</y><w>216</w><h>117</h></coordinates><panel_attributes>/ISandwichBuilder/
+-
++AddBread() : ISandwichBuilder
++AddMeat() : ISandwichBuilder
++AddVegetables() : ISandwichBuilder
++AddSauce() : ISandwichBuilder
++GetSandwich() : ISandwich
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>675</x><y>388</y><w>216</w><h>117</h></coordinates><panel_attributes>VeggieSandwichBuilder
+-
+-_sandwich : Sandwich
+-
++AddBread() : ISandwichBuilder
++AddMeat() : ISandwichBuilder
++AddVegetables() : ISandwichBuilder
++AddSauce() : ISandwichBuilder
++GetSandwich() : ISandwich</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>459</x><y>586</y><w>216</w><h>81</h></coordinates><panel_attributes>Sandwich
+-
++Ingredients : List&lt;string&gt;
+-
++AddIngredient(ingredient : string) : void
++ToString() : string</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>153</x><y>190</y><w>216</w><h>117</h></coordinates><panel_attributes>/ISandwich/
+-
++Ingredients : List&lt;string&gt;
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>252</x><y>298</y><w>225</w><h>351</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;10;370;230;370</additional_attributes></element><element><id>Relation</id><coordinates><x>666</x><y>496</y><w>144</w><h>153</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>10;150;140;150;140;10</additional_attributes></element><element><id>Relation</id><coordinates><x>468</x><y>496</y><w>117</w><h>108</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>110;100;110;50;10;50;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>783</x><y>298</y><w>27</w><h>108</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;10;100</additional_attributes></element><element><id>Relation</id><coordinates><x>468</x><y>244</y><w>225</w><h>162</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>230;10;10;10;10;160</additional_attributes></element><element><id>Relation</id><coordinates><x>666</x><y>55</y><w>144</w><h>153</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;140;10;140;150</additional_attributes></element></diagram>

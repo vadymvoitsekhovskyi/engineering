@@ -1,0 +1,15 @@
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task2\iterator\bin\Debug\net10.0\iterator.exe
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task2\iterator\bin\Debug\net10.0\iterator.deps.json
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task2\iterator\bin\Debug\net10.0\iterator.runtimeconfig.json
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task2\iterator\bin\Debug\net10.0\iterator.dll
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task2\iterator\bin\Debug\net10.0\iterator.pdb
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task2\iterator\obj\Debug\net10.0\iterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task2\iterator\obj\Debug\net10.0\iterator.AssemblyInfoInputs.cache
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task2\iterator\obj\Debug\net10.0\iterator.AssemblyInfo.cs
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task2\iterator\obj\Debug\net10.0\iterator.csproj.CoreCompileInputs.cache
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task2\iterator\obj\Debug\net10.0\iterator.sourcelink.json
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task2\iterator\obj\Debug\net10.0\iterator.dll
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task2\iterator\obj\Debug\net10.0\refint\iterator.dll
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task2\iterator\obj\Debug\net10.0\iterator.pdb
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task2\iterator\obj\Debug\net10.0\iterator.genruntimeconfig.cache
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task2\iterator\obj\Debug\net10.0\ref\iterator.dll

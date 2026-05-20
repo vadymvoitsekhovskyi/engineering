@@ -1,0 +1,44 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0">
+  <diagram name="Сторінка-1" id="juWQWOi366l1n6NW4LWw">
+    <mxGraphModel dx="1442" dy="535" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8L8DWv4Dv7rH_bFThEZ9-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;OrderProcessor&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- _orderRepository :&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;OrderRepository&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- _notificationService :&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;NotificationService&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ ProcessOrder(item : string) : void&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="250" x="90" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="8L8DWv4Dv7rH_bFThEZ9-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;EmailService&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Send(order : string) : void&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="200" x="-276" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="8L8DWv4Dv7rH_bFThEZ9-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;OrderRepository&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ SaveToDb(order : string) : void&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="248" x="409" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="8L8DWv4Dv7rH_bFThEZ9-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;abstract&amp;gt;&lt;br&gt;NotificationService&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Send(message : string) : void&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="250" x="90" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="8L8DWv4Dv7rH_bFThEZ9-5" edge="1" parent="1" source="8L8DWv4Dv7rH_bFThEZ9-2" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8L8DWv4Dv7rH_bFThEZ9-4" value="">
+          <mxGeometry relative="1" width="160" x="-0.0323" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="-26" y="154" as="sourcePoint" />
+            <mxPoint x="134" y="154" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8L8DWv4Dv7rH_bFThEZ9-6" edge="1" parent="1" source="8L8DWv4Dv7rH_bFThEZ9-1" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="8L8DWv4Dv7rH_bFThEZ9-4" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="87" y="189" as="sourcePoint" />
+            <mxPoint x="247" y="189" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8L8DWv4Dv7rH_bFThEZ9-10" edge="1" parent="1" source="8L8DWv4Dv7rH_bFThEZ9-1" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="8L8DWv4Dv7rH_bFThEZ9-3" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points">
+              <mxPoint x="533" y="325" />
+            </Array>
+            <mxPoint x="408" y="330" as="sourcePoint" />
+            <mxPoint x="408" y="212" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

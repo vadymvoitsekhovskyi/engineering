@@ -1,0 +1,15 @@
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task2\sigleton\bin\Debug\net10.0\sigleton.exe
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task2\sigleton\bin\Debug\net10.0\sigleton.deps.json
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task2\sigleton\bin\Debug\net10.0\sigleton.runtimeconfig.json
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task2\sigleton\bin\Debug\net10.0\sigleton.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task2\sigleton\bin\Debug\net10.0\sigleton.pdb
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task2\sigleton\obj\Debug\net10.0\sigleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task2\sigleton\obj\Debug\net10.0\sigleton.AssemblyInfoInputs.cache
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task2\sigleton\obj\Debug\net10.0\sigleton.AssemblyInfo.cs
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task2\sigleton\obj\Debug\net10.0\sigleton.csproj.CoreCompileInputs.cache
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task2\sigleton\obj\Debug\net10.0\sigleton.sourcelink.json
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task2\sigleton\obj\Debug\net10.0\sigleton.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task2\sigleton\obj\Debug\net10.0\refint\sigleton.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task2\sigleton\obj\Debug\net10.0\sigleton.pdb
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task2\sigleton\obj\Debug\net10.0\sigleton.genruntimeconfig.cache
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task2\sigleton\obj\Debug\net10.0\ref\sigleton.dll

@@ -1,0 +1,35 @@
+<diagram program="umletino" version="15.1"><zoom_level>8</zoom_level><element><id>UMLClass</id><coordinates><x>400</x><y>88</y><w>176</w><h>96</h></coordinates><panel_attributes>Application
+-
+-_button : IButton
+-_checkbox : ICheckbox
+-
++Application(factory: IUIFactory)
++RenderUI() : void
++SimulateUserInteraction() : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>408</x><y>280</y><w>160</w><h>56</h></coordinates><panel_attributes>/IUIFactory/
+-
++CreateButton() : IButton
++CreateCheckbox() : ICheckbox</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>576</x><y>224</y><w>160</w><h>56</h></coordinates><panel_attributes>/IButton/
+-
++Render() : void
++OnClick() : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>496</x><y>432</y><w>176</w><h>56</h></coordinates><panel_attributes>WindowsFactory
+-
++CreateButton() : IButton
++CreateCheckbox() : ICheckbox</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>312</x><y>432</y><w>168</w><h>56</h></coordinates><panel_attributes>MacFactory
+-
++CreateButton() : IButton
++CreateCheckbox() : ICheckbox</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>240</x><y>216</y><w>160</w><h>56</h></coordinates><panel_attributes>/ICheckbox/
+-
++Render() : void
++OnClick() : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>728</x><y>432</y><w>96</w><h>56</h></coordinates><panel_attributes>WindowsButton
+-
++Render() : void
++OnClick() : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>800</x><y>360</y><w>96</w><h>56</h></coordinates><panel_attributes>MacButton
+-
++Render() : void
++OnClick() : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>200</x><y>432</y><w>96</w><h>56</h></coordinates><panel_attributes>WindowsCheckbox
+-
++Render() : void
++OnClick() : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>264</x><y>336</y><w>96</w><h>56</h></coordinates><panel_attributes>MacCheckbox
+-
++Render() : void
++OnClick() : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>568</x><y>128</y><w>104</w><h>112</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;110;10;110;120</additional_attributes></element><element><id>Relation</id><coordinates><x>312</x><y>128</y><w>104</w><h>104</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>110;10;10;10;10;110</additional_attributes></element><element><id>Relation</id><coordinates><x>480</x><y>176</y><w>24</w><h>120</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>10;130;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>440</x><y>328</y><w>24</w><h>120</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;10;130</additional_attributes></element><element><id>Relation</id><coordinates><x>560</x><y>304</y><w>64</w><h>144</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;60;10;60;160</additional_attributes></element><element><id>Relation</id><coordinates><x>648</x><y>272</y><w>144</w><h>176</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;10;110;160;110;160;200</additional_attributes></element><element><id>Relation</id><coordinates><x>728</x><y>248</y><w>136</w><h>128</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;150;10;150;140</additional_attributes></element><element><id>Relation</id><coordinates><x>304</x><y>264</y><w>24</w><h>88</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;10;90</additional_attributes></element><element><id>Relation</id><coordinates><x>168</x><y>240</y><w>88</w><h>240</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>90;10;10;10;10;280;40;280</additional_attributes></element><element><id>Relation</id><coordinates><x>384</x><y>408</y><w>480</w><h>168</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>580;10;580;190;10;190;10;100</additional_attributes></element><element><id>Relation</id><coordinates><x>664</x><y>456</y><w>80</w><h>24</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>80;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>304</x><y>384</y><w>56</w><h>64</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>10;10;10;40;50;40;50;60</additional_attributes></element><element><id>Relation</id><coordinates><x>240</x><y>480</y><w>320</w><h>56</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>10;10;10;50;380;50;380;10</additional_attributes></element></diagram>

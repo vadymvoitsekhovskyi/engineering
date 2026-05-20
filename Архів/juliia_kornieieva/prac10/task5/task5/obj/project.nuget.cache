@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JZrhHL+hOVI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VICTUS\\Desktop\\juliia_kornieieva\\prac10\\task5\\task5\\task5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VICTUS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}

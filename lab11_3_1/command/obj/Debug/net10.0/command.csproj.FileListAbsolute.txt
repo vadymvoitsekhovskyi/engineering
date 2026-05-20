@@ -1,0 +1,15 @@
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_3_1\command\bin\Debug\net10.0\command.exe
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_3_1\command\bin\Debug\net10.0\command.deps.json
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_3_1\command\bin\Debug\net10.0\command.runtimeconfig.json
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_3_1\command\bin\Debug\net10.0\command.dll
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_3_1\command\bin\Debug\net10.0\command.pdb
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_3_1\command\obj\Debug\net10.0\command.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_3_1\command\obj\Debug\net10.0\command.AssemblyInfoInputs.cache
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_3_1\command\obj\Debug\net10.0\command.AssemblyInfo.cs
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_3_1\command\obj\Debug\net10.0\command.csproj.CoreCompileInputs.cache
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_3_1\command\obj\Debug\net10.0\command.sourcelink.json
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_3_1\command\obj\Debug\net10.0\command.dll
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_3_1\command\obj\Debug\net10.0\refint\command.dll
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_3_1\command\obj\Debug\net10.0\command.pdb
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_3_1\command\obj\Debug\net10.0\command.genruntimeconfig.cache
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_3_1\command\obj\Debug\net10.0\ref\command.dll

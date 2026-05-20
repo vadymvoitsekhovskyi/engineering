@@ -1,0 +1,15 @@
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task1\factory\bin\Debug\net10.0\factory.exe
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task1\factory\bin\Debug\net10.0\factory.deps.json
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task1\factory\bin\Debug\net10.0\factory.runtimeconfig.json
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task1\factory\bin\Debug\net10.0\factory.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task1\factory\bin\Debug\net10.0\factory.pdb
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task1\factory\obj\Debug\net10.0\factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task1\factory\obj\Debug\net10.0\factory.AssemblyInfoInputs.cache
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task1\factory\obj\Debug\net10.0\factory.AssemblyInfo.cs
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task1\factory\obj\Debug\net10.0\factory.csproj.CoreCompileInputs.cache
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task1\factory\obj\Debug\net10.0\factory.sourcelink.json
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task1\factory\obj\Debug\net10.0\factory.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task1\factory\obj\Debug\net10.0\refint\factory.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task1\factory\obj\Debug\net10.0\factory.pdb
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task1\factory\obj\Debug\net10.0\factory.genruntimeconfig.cache
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task1\factory\obj\Debug\net10.0\ref\factory.dll

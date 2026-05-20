@@ -1,0 +1,12 @@
+<diagram program="umletino" version="15.1"><zoom_level>15</zoom_level><element><id>UMLClass</id><coordinates><x>315</x><y>90</y><w>390</w><h>150</h></coordinates><panel_attributes>Program
+-
++Main(args : string[]) : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>315</x><y>375</y><w>390</w><h>225</h></coordinates><panel_attributes>ConfigurationManager
+-
+-_instance : Lazy&lt;ConfigurationManager&gt;
+-_settings : Dictionary&lt;string, string&gt;
+-_configFilePath : string
++Instance : ConfigurationManager
+-
+-ConfigurationManager()
+-LoadConfiguration() : void
++GetSetting(key : string) : string</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>495</x><y>225</y><w>45</w><h>180</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>10;100;10;10</additional_attributes></element></diagram>

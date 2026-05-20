@@ -1,0 +1,29 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>440</x><y>370</y><w>270</w><h>130</h></coordinates><panel_attributes>Warehouse
+-
+-_productCount : int
+-
++Warehouse(initialCount: int)
++AddProducts(count: int) : void
++SellProducts(count: int) : void
++Save() : IMemento
++Restore(memento: IMemento) : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>440</x><y>200</y><w>270</w><h>70</h></coordinates><panel_attributes>/IMemento/
+-
++GetName() : string
++GetDate() : DateTime
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>830</x><y>370</y><w>270</w><h>130</h></coordinates><panel_attributes>WarehouseSnapshot
+-
+-_productCount : int
+-_date : DateTime
+-
++WarehouseSnapshot(productCount: int)
++GetSavedProductCount() : int
++GetName() : string
++GetDate() : DateTime</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>60</x><y>350</y><w>270</w><h>130</h></coordinates><panel_attributes>WarehouseHistory
+-
+-_mementos : List&lt;IMemento&gt;
+-_warehouse : Warehouse
+-
++WarehouseHistory(warehouse: Warehouse)
++Backup() : void
++Undo() : void
++ShowHistory() : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>190</x><y>230</y><w>270</w><h>140</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;120;250;10</additional_attributes></element><element><id>Relation</id><coordinates><x>320</x><y>400</y><w>140</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;120;10</additional_attributes></element><element><id>Relation</id><coordinates><x>700</x><y>420</y><w>150</w><h>30</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>130;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>700</x><y>230</y><w>290</w><h>160</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;270;140</additional_attributes></element></diagram>

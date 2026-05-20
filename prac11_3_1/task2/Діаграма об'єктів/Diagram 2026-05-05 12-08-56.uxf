@@ -1,0 +1,24 @@
+<diagram program="umletino" version="15.1"><zoom_level>12</zoom_level><element><id>UMLClass</id><coordinates><x>300</x><y>120</y><w>240</w><h>60</h></coordinates><panel_attributes>_menu : RestaurantMenu_
+
+-</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>684</x><y>120</y><w>240</w><h>60</h></coordinates><panel_attributes>_iterator : MenuIterator_
+
+-</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>492</x><y>288</y><w>252</w><h>84</h></coordinates><panel_attributes>_menuItemsList : List_
+
+-
+Count = 4</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>48</x><y>480</y><w>240</w><h>96</h></coordinates><panel_attributes>_item1 : MenuItem_
+
+-
+Name = "Борщ український"
+Price = 120.00</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>348</x><y>480</y><w>240</w><h>96</h></coordinates><panel_attributes>_item2 : MenuItem_
+
+-
+Name = "Вареники з картоплею"
+Price = 95.50</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>648</x><y>480</y><w>240</w><h>96</h></coordinates><panel_attributes>_item3 : MenuItem_
+
+-
+Name = "Котлета по-київськи"
+Price = 150.00</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>948</x><y>480</y><w>240</w><h>96</h></coordinates><panel_attributes>_item4 : MenuItem_
+
+-
+Name = "Узвар"
+Price = 40.00</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>408</x><y>168</y><w>156</w><h>144</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>110;100;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>684</x><y>168</y><w>144</w><h>144</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>10;100;100;10</additional_attributes></element><element><id>Relation</id><coordinates><x>156</x><y>360</y><w>384</w><h>144</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>10;100;300;10</additional_attributes></element><element><id>Relation</id><coordinates><x>468</x><y>360</y><w>132</w><h>144</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>10;100;90;10</additional_attributes></element><element><id>Relation</id><coordinates><x>648</x><y>360</y><w>156</w><h>144</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>110;100;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>708</x><y>360</y><w>396</w><h>144</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>310;100;10;10</additional_attributes></element></diagram>

@@ -1,0 +1,6 @@
+{
+  "Theme": "Dark",
+  "Language": "uk-UA",
+  "MaxConnections": "100",
+  "ApiUrl": "https://api.example.com/v1"
+}
