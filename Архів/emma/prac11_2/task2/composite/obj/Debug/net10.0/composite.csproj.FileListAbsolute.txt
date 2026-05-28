@@ -1,0 +1,29 @@
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task2\composite\bin\Debug\net10.0\composite.exe
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task2\composite\bin\Debug\net10.0\composite.deps.json
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task2\composite\bin\Debug\net10.0\composite.runtimeconfig.json
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task2\composite\bin\Debug\net10.0\composite.dll
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task2\composite\bin\Debug\net10.0\composite.pdb
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task2\composite\obj\Debug\net10.0\composite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task2\composite\obj\Debug\net10.0\composite.AssemblyInfoInputs.cache
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task2\composite\obj\Debug\net10.0\composite.AssemblyInfo.cs
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task2\composite\obj\Debug\net10.0\composite.csproj.CoreCompileInputs.cache
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task2\composite\obj\Debug\net10.0\composite.sourcelink.json
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task2\composite\obj\Debug\net10.0\composite.dll
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task2\composite\obj\Debug\net10.0\refint\composite.dll
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task2\composite\obj\Debug\net10.0\composite.pdb
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task2\composite\obj\Debug\net10.0\composite.genruntimeconfig.cache
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task2\composite\obj\Debug\net10.0\ref\composite.dll
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task2\composite\bin\Debug\net10.0\composite.exe
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task2\composite\bin\Debug\net10.0\composite.deps.json
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task2\composite\bin\Debug\net10.0\composite.runtimeconfig.json
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task2\composite\bin\Debug\net10.0\composite.dll
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task2\composite\bin\Debug\net10.0\composite.pdb
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task2\composite\obj\Debug\net10.0\composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task2\composite\obj\Debug\net10.0\composite.AssemblyInfoInputs.cache
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task2\composite\obj\Debug\net10.0\composite.AssemblyInfo.cs
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task2\composite\obj\Debug\net10.0\composite.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task2\composite\obj\Debug\net10.0\composite.dll
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task2\composite\obj\Debug\net10.0\refint\composite.dll
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task2\composite\obj\Debug\net10.0\composite.pdb
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task2\composite\obj\Debug\net10.0\composite.genruntimeconfig.cache
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task2\composite\obj\Debug\net10.0\ref\composite.dll

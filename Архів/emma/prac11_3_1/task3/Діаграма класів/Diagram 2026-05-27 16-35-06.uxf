@@ -1,0 +1,24 @@
+<diagram program="umletino" version="15.1"><zoom_level>9</zoom_level><element><id>UMLClass</id><coordinates><x>702</x><y>99</y><w>216</w><h>54</h></coordinates><panel_attributes>/IMediator/
+-
++Notify(sender : object, ev : string) : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>234</x><y>306</y><w>180</w><h>72</h></coordinates><panel_attributes>Reception
+-
++BookRoom() : void
++Checkout() : void
++AddToBill(item: string) : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>99</x><y>306</y><w>126</w><h>45</h></coordinates><panel_attributes>Restaurant
+-
++DeliverFood() : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>549</x><y>495</y><w>522</w><h>99</h></coordinates><panel_attributes>HotelManagementMediator
+-
+-_reception : Reception
+-_cleaningService : CleaningService
+-_restaurant : Restaurant
+-
++HotelManagementMediator(reception : Reception, cleaning : CleaningService, restaurant : Restaurant)
++Notify(sender : object, ev : string) : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>423</x><y>306</y><w>126</w><h>45</h></coordinates><panel_attributes>CleaningService
+-
++CleanRoom() : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>207</x><y>90</y><w>234</w><h>81</h></coordinates><panel_attributes>/HotelDepartment/
+-
+#_mediator : IMediator
+-
++HotelDepartment(mediator : IMediator)
++SetMediator(mediator : IMediator) : void
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>432</x><y>117</y><w>288</w><h>27</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;300;10</additional_attributes></element><element><id>Relation</id><coordinates><x>315</x><y>162</y><w>27</w><h>162</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;160</additional_attributes></element><element><id>Relation</id><coordinates><x>801</x><y>144</y><w>27</w><h>369</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;10;390</additional_attributes></element><element><id>Relation</id><coordinates><x>504</x><y>342</y><w>90</w><h>171</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>10;10;80;170</additional_attributes></element><element><id>Relation</id><coordinates><x>315</x><y>369</y><w>252</w><h>180</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>10;10;260;180</additional_attributes></element><element><id>Relation</id><coordinates><x>153</x><y>162</y><w>126</w><h>162</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>120;10;10;160</additional_attributes></element><element><id>Relation</id><coordinates><x>378</x><y>162</y><w>126</w><h>162</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;120;160</additional_attributes></element><element><id>Relation</id><coordinates><x>144</x><y>342</y><w>423</w><h>252</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>10;10;10;60;450;260</additional_attributes></element></diagram>

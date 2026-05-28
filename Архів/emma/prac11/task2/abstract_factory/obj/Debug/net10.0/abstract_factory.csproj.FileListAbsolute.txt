@@ -1,0 +1,29 @@
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task2\abstract_factory\bin\Debug\net10.0\abstract_factory.exe
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task2\abstract_factory\bin\Debug\net10.0\abstract_factory.deps.json
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task2\abstract_factory\bin\Debug\net10.0\abstract_factory.runtimeconfig.json
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task2\abstract_factory\bin\Debug\net10.0\abstract_factory.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task2\abstract_factory\bin\Debug\net10.0\abstract_factory.pdb
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task2\abstract_factory\obj\Debug\net10.0\abstract_factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task2\abstract_factory\obj\Debug\net10.0\abstract_factory.AssemblyInfoInputs.cache
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task2\abstract_factory\obj\Debug\net10.0\abstract_factory.AssemblyInfo.cs
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task2\abstract_factory\obj\Debug\net10.0\abstract_factory.csproj.CoreCompileInputs.cache
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task2\abstract_factory\obj\Debug\net10.0\abstract_factory.sourcelink.json
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task2\abstract_factory\obj\Debug\net10.0\abstract_factory.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task2\abstract_factory\obj\Debug\net10.0\refint\abstract_factory.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task2\abstract_factory\obj\Debug\net10.0\abstract_factory.pdb
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task2\abstract_factory\obj\Debug\net10.0\abstract_factory.genruntimeconfig.cache
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac11\task2\abstract_factory\obj\Debug\net10.0\ref\abstract_factory.dll
+C:\Users\VICTUS\Desktop\mppz\prac11\task2\abstract_factory\bin\Debug\net10.0\abstract_factory.exe
+C:\Users\VICTUS\Desktop\mppz\prac11\task2\abstract_factory\bin\Debug\net10.0\abstract_factory.deps.json
+C:\Users\VICTUS\Desktop\mppz\prac11\task2\abstract_factory\bin\Debug\net10.0\abstract_factory.runtimeconfig.json
+C:\Users\VICTUS\Desktop\mppz\prac11\task2\abstract_factory\bin\Debug\net10.0\abstract_factory.dll
+C:\Users\VICTUS\Desktop\mppz\prac11\task2\abstract_factory\bin\Debug\net10.0\abstract_factory.pdb
+C:\Users\VICTUS\Desktop\mppz\prac11\task2\abstract_factory\obj\Debug\net10.0\abstract_factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\Desktop\mppz\prac11\task2\abstract_factory\obj\Debug\net10.0\abstract_factory.AssemblyInfoInputs.cache
+C:\Users\VICTUS\Desktop\mppz\prac11\task2\abstract_factory\obj\Debug\net10.0\abstract_factory.AssemblyInfo.cs
+C:\Users\VICTUS\Desktop\mppz\prac11\task2\abstract_factory\obj\Debug\net10.0\abstract_factory.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\Desktop\mppz\prac11\task2\abstract_factory\obj\Debug\net10.0\abstract_factory.dll
+C:\Users\VICTUS\Desktop\mppz\prac11\task2\abstract_factory\obj\Debug\net10.0\refint\abstract_factory.dll
+C:\Users\VICTUS\Desktop\mppz\prac11\task2\abstract_factory\obj\Debug\net10.0\abstract_factory.pdb
+C:\Users\VICTUS\Desktop\mppz\prac11\task2\abstract_factory\obj\Debug\net10.0\abstract_factory.genruntimeconfig.cache
+C:\Users\VICTUS\Desktop\mppz\prac11\task2\abstract_factory\obj\Debug\net10.0\ref\abstract_factory.dll

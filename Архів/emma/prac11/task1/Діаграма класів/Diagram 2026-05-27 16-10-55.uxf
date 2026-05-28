@@ -1,0 +1,18 @@
+<diagram program="umletino" version="15.1"><zoom_level>11</zoom_level><element><id>UMLClass</id><coordinates><x>561</x><y>539</y><w>286</w><h>55</h></coordinates><panel_attributes>UniversityCourseFactory
+-
++CreateCourse(courseType : string) : Course</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>132</x><y>99</y><w>286</w><h>55</h></coordinates><panel_attributes>/CourseFactory/
+-
++CreateCourse(courseType : string) : Course
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>594</x><y>121</y><w>286</w><h>88</h></coordinates><panel_attributes>/Course/
+-
++Title : string
+-
++EnrollStudent(studentName : string) : void
++ConductLesson() : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>726</x><y>363</y><w>286</w><h>66</h></coordinates><panel_attributes>OnlineCourse
+-
++EnrollStudent(studentName : string) : void
++ConductLesson() : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>352</x><y>319</y><w>286</w><h>66</h></coordinates><panel_attributes>OfflineCourse
+-
++EnrollStudent(studentName : string) : void
++ConductLesson() : void
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>484</x><y>198</y><w>198</w><h>143</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>160;10;10;110</additional_attributes></element><element><id>Relation</id><coordinates><x>484</x><y>374</y><w>242</w><h>187</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>10;10;200;150</additional_attributes></element><element><id>Relation</id><coordinates><x>836</x><y>418</y><w>110</w><h>176</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>80;10;10;140</additional_attributes></element><element><id>Relation</id><coordinates><x>264</x><y>143</y><w>319</w><h>451</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;390;270;390</additional_attributes></element><element><id>Relation</id><coordinates><x>407</x><y>121</y><w>209</w><h>66</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>170;40;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>803</x><y>198</y><w>99</w><h>187</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;70;150</additional_attributes></element></diagram>

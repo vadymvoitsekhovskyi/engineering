@@ -1,0 +1,29 @@
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task1\adapter\bin\Debug\net10.0\adapter.exe
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task1\adapter\bin\Debug\net10.0\adapter.deps.json
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task1\adapter\bin\Debug\net10.0\adapter.runtimeconfig.json
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task1\adapter\bin\Debug\net10.0\adapter.dll
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task1\adapter\bin\Debug\net10.0\adapter.pdb
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task1\adapter\obj\Debug\net10.0\adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task1\adapter\obj\Debug\net10.0\adapter.AssemblyInfoInputs.cache
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task1\adapter\obj\Debug\net10.0\adapter.AssemblyInfo.cs
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task1\adapter\obj\Debug\net10.0\adapter.csproj.CoreCompileInputs.cache
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task1\adapter\obj\Debug\net10.0\adapter.sourcelink.json
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task1\adapter\obj\Debug\net10.0\adapter.dll
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task1\adapter\obj\Debug\net10.0\refint\adapter.dll
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task1\adapter\obj\Debug\net10.0\adapter.pdb
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task1\adapter\obj\Debug\net10.0\adapter.genruntimeconfig.cache
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_2\task1\adapter\obj\Debug\net10.0\ref\adapter.dll
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task1\adapter\bin\Debug\net10.0\adapter.exe
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task1\adapter\bin\Debug\net10.0\adapter.deps.json
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task1\adapter\bin\Debug\net10.0\adapter.runtimeconfig.json
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task1\adapter\bin\Debug\net10.0\adapter.dll
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task1\adapter\bin\Debug\net10.0\adapter.pdb
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task1\adapter\obj\Debug\net10.0\adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task1\adapter\obj\Debug\net10.0\adapter.AssemblyInfoInputs.cache
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task1\adapter\obj\Debug\net10.0\adapter.AssemblyInfo.cs
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task1\adapter\obj\Debug\net10.0\adapter.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task1\adapter\obj\Debug\net10.0\adapter.dll
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task1\adapter\obj\Debug\net10.0\refint\adapter.dll
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task1\adapter\obj\Debug\net10.0\adapter.pdb
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task1\adapter\obj\Debug\net10.0\adapter.genruntimeconfig.cache
+C:\Users\VICTUS\Desktop\mppz\prac11_2\task1\adapter\obj\Debug\net10.0\ref\adapter.dll

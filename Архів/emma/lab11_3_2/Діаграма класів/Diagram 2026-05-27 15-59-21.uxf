@@ -1,0 +1,16 @@
+<diagram program="umletino" version="15.1"><zoom_level>7</zoom_level><element><id>UMLClass</id><coordinates><x>651</x><y>210</y><w>133</w><h>42</h></coordinates><panel_attributes>/IPaymentStrategy/
+-
++Pay(amount: decimal) : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>224</x><y>217</y><w>273</w><h>84</h></coordinates><panel_attributes>RestaurantOrder
+-
+-_paymentStrategy : IPaymentStrategy
+-_totalAmount : decimal
+-
++RestaurantOrder(totalAmount: decimal)
++SetPaymentStrategy(paymentStrategy: IPaymentStrategy) : void
++Checkout() : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>630</x><y>399</y><w>147</w><h>35</h></coordinates><panel_attributes>CashPaymentStrategy
+-
++Pay(amount: decimal) : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>861</x><y>343</y><w>147</w><h>35</h></coordinates><panel_attributes>CardPaymentStrategy
+-
++Pay(amount: decimal) : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>434</x><y>357</y><w>147</w><h>35</h></coordinates><panel_attributes>CryptoPaymentStrategy
+-
++Pay(amount: decimal) : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>693</x><y>245</y><w>35</w><h>168</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>30;10;10;220</additional_attributes></element><element><id>Relation</id><coordinates><x>490</x><y>224</y><w>175</w><h>49</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;50;230;10</additional_attributes></element><element><id>Relation</id><coordinates><x>497</x><y>245</y><w>196</w><h>126</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>260;10;10;160</additional_attributes></element><element><id>Relation</id><coordinates><x>756</x><y>245</y><w>189</w><h>112</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;250;140</additional_attributes></element></diagram>

@@ -1,0 +1,132 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0">
+  <diagram name="Сторінка-1" id="jaG6uq_dElTF9r7q8ekl">
+    <mxGraphModel dx="2537" dy="1292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-2" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="BookDb" vertex="1">
+          <mxGeometry height="130" width="270" x="-430" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-3" parent="YmNX_lvDTC1Li5-g5byh-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- _books : List&amp;lt;Book&amp;gt;" vertex="1">
+          <mxGeometry height="26" width="270" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-4" parent="YmNX_lvDTC1Li5-g5byh-2" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="270" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-5" parent="YmNX_lvDTC1Li5-g5byh-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ AddBook(Book book) : void&lt;div&gt;+&amp;nbsp;GetAll() : List&amp;lt;Book&amp;gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="270" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-15" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="LibraryService" vertex="1">
+          <mxGeometry height="130" width="270" x="250" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-16" parent="YmNX_lvDTC1Li5-g5byh-15" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- _bookRepository : IBookRepository&amp;nbsp;" vertex="1">
+          <mxGeometry height="26" width="270" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-35" parent="YmNX_lvDTC1Li5-g5byh-15" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- _nextId : int" vertex="1">
+          <mxGeometry height="26" width="270" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-17" parent="YmNX_lvDTC1Li5-g5byh-15" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="270" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-18" parent="YmNX_lvDTC1Li5-g5byh-15" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ AddBook(title : string, author : string) : void&lt;div&gt;+ GetLibraryContent() :&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;List&amp;lt;Book&amp;gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="44" width="270" y="86" as="geometry" />
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-19" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="UserInterface" vertex="1">
+          <mxGeometry height="130" width="160" x="660" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-20" parent="YmNX_lvDTC1Li5-g5byh-19" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- _service: ILibraryService" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-21" parent="YmNX_lvDTC1Li5-g5byh-19" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-22" parent="YmNX_lvDTC1Li5-g5byh-19" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Start() : void&lt;br&gt;- AddBookUI() : void&lt;br&gt;- ShowBooksUI() : void&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-28" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;ILibraryService&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ AddBook(title : string, author : string) : void&lt;br&gt;+ GetLibraryContent() : List&amp;lt;Book&amp;gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="270" x="250" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-29" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;IBookRepository&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ AddBook(book : Book) : void&lt;br&gt;+ GetAll() : List&amp;lt;Book&amp;gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="270" x="-160" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-31" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Book" vertex="1">
+          <mxGeometry height="130" width="160" x="-105" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-32" parent="YmNX_lvDTC1Li5-g5byh-31" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;monospace&quot;&gt;+ Id : int&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;+ Title: string&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;+ Author : string&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="64" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-33" parent="YmNX_lvDTC1Li5-g5byh-31" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-34" parent="YmNX_lvDTC1Li5-g5byh-31" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;+ ToString() : string&lt;/div&gt;" vertex="1">
+          <mxGeometry height="32" width="160" y="98" as="geometry" />
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-37" edge="1" parent="1" source="YmNX_lvDTC1Li5-g5byh-5" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.486;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;" target="YmNX_lvDTC1Li5-g5byh-29" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points">
+              <mxPoint x="-300" y="520" />
+            </Array>
+            <mxPoint x="-300" y="330" as="sourcePoint" />
+            <mxPoint x="620" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-45" connectable="0" parent="YmNX_lvDTC1Li5-g5byh-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;implements&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0237" y="1" as="geometry">
+            <mxPoint x="-1" y="-55" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-39" edge="1" parent="1" source="YmNX_lvDTC1Li5-g5byh-15" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="YmNX_lvDTC1Li5-g5byh-28" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="190" y="430" as="sourcePoint" />
+            <mxPoint x="140" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-46" connectable="0" parent="YmNX_lvDTC1Li5-g5byh-39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;implements&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.483" y="-1" as="geometry">
+            <mxPoint x="-1" y="-72" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-40" edge="1" parent="1" source="YmNX_lvDTC1Li5-g5byh-22" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.078;exitDx=0;exitDy=0;exitPerimeter=0;" target="YmNX_lvDTC1Li5-g5byh-28" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="610" y="120" as="sourcePoint" />
+            <mxPoint x="560" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-47" connectable="0" parent="YmNX_lvDTC1Li5-g5byh-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;associates&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.132" y="5" as="geometry">
+            <mxPoint x="-1" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-42" edge="1" parent="1" source="YmNX_lvDTC1Li5-g5byh-35" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="YmNX_lvDTC1Li5-g5byh-29" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="250" y="620" as="sourcePoint" />
+            <mxPoint x="110" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-49" connectable="0" parent="YmNX_lvDTC1Li5-g5byh-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;associates&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2401" y="-2" as="geometry">
+            <mxPoint x="-17" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-43" edge="1" parent="1" source="YmNX_lvDTC1Li5-g5byh-29" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.493;entryY=1.066;entryDx=0;entryDy=0;entryPerimeter=0;" target="YmNX_lvDTC1Li5-g5byh-34" value="&amp;lt;&amp;lt;uses&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="50" y="210" as="sourcePoint" />
+            <mxPoint x="220" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YmNX_lvDTC1Li5-g5byh-44" edge="1" parent="1" source="YmNX_lvDTC1Li5-g5byh-28" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="YmNX_lvDTC1Li5-g5byh-32" value="&amp;lt;&amp;lt;uses&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" x="0.279" y="1" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="385" y="-60" />
+            </Array>
+            <mxPoint x="391" y="40" as="sourcePoint" />
+            <mxPoint x="390" y="-198" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

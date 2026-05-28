@@ -1,0 +1,25 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>280</x><y>290</y><w>270</w><h>100</h></coordinates><panel_attributes>RestaurantMenu
+-
+-_menuItems : List
+-
++RestaurantMenu()
++AddItem(name : string, price : double) : void
++CreateIterator() : IIterator</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>330</x><y>80</y><w>160</w><h>70</h></coordinates><panel_attributes>/IMenu/
+-
++CreateIterator() : IIterator</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>770</x><y>140</y><w>30</w><h>170</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;10;150</additional_attributes></element><element><id>Relation</id><coordinates><x>480</x><y>110</y><w>250</w><h>30</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>230;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>400</x><y>380</y><w>140</w><h>160</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;120;140</additional_attributes></element><element><id>UMLClass</id><coordinates><x>710</x><y>80</y><w>140</w><h>70</h></coordinates><panel_attributes>/IIterator/
+-
++HasNext() : bool
++Next() : MenuItem</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>670</x><y>290</y><w>220</w><h>130</h></coordinates><panel_attributes>MenuIterator
+-
+-_menuItems : List
+-_position : int = 0
+-
++MenuIterator(menuItems : List)
++HasNext() : bool
++Next() : MenuItem</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>470</x><y>520</y><w>240</w><h>100</h></coordinates><panel_attributes>MenuItem
+-
++Name : string
++Price : double
+-
++MenuItem(name : string, price : double)
++ToString() : string</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>400</x><y>140</y><w>30</w><h>170</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;10;150</additional_attributes></element><element><id>Relation</id><coordinates><x>540</x><y>330</y><w>150</w><h>30</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>130;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>650</x><y>410</y><w>150</w><h>130</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>130;10;10;110</additional_attributes></element></diagram>

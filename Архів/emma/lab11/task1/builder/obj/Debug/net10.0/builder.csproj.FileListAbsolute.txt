@@ -1,0 +1,29 @@
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task1\builder\bin\Debug\net10.0\builder.exe
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task1\builder\bin\Debug\net10.0\builder.deps.json
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task1\builder\bin\Debug\net10.0\builder.runtimeconfig.json
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task1\builder\bin\Debug\net10.0\builder.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task1\builder\bin\Debug\net10.0\builder.pdb
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task1\builder\obj\Debug\net10.0\builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task1\builder\obj\Debug\net10.0\builder.AssemblyInfoInputs.cache
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task1\builder\obj\Debug\net10.0\builder.AssemblyInfo.cs
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task1\builder\obj\Debug\net10.0\builder.csproj.CoreCompileInputs.cache
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task1\builder\obj\Debug\net10.0\builder.sourcelink.json
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task1\builder\obj\Debug\net10.0\builder.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task1\builder\obj\Debug\net10.0\refint\builder.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task1\builder\obj\Debug\net10.0\builder.pdb
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task1\builder\obj\Debug\net10.0\builder.genruntimeconfig.cache
+D:\Documents\SUICT\3 курс\2 семестр\engineering\lab11\task1\builder\obj\Debug\net10.0\ref\builder.dll
+C:\Users\VICTUS\Desktop\mppz\lab11\task1\builder\bin\Debug\net10.0\builder.exe
+C:\Users\VICTUS\Desktop\mppz\lab11\task1\builder\bin\Debug\net10.0\builder.deps.json
+C:\Users\VICTUS\Desktop\mppz\lab11\task1\builder\bin\Debug\net10.0\builder.runtimeconfig.json
+C:\Users\VICTUS\Desktop\mppz\lab11\task1\builder\bin\Debug\net10.0\builder.dll
+C:\Users\VICTUS\Desktop\mppz\lab11\task1\builder\bin\Debug\net10.0\builder.pdb
+C:\Users\VICTUS\Desktop\mppz\lab11\task1\builder\obj\Debug\net10.0\builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\Desktop\mppz\lab11\task1\builder\obj\Debug\net10.0\builder.AssemblyInfoInputs.cache
+C:\Users\VICTUS\Desktop\mppz\lab11\task1\builder\obj\Debug\net10.0\builder.AssemblyInfo.cs
+C:\Users\VICTUS\Desktop\mppz\lab11\task1\builder\obj\Debug\net10.0\builder.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\Desktop\mppz\lab11\task1\builder\obj\Debug\net10.0\builder.dll
+C:\Users\VICTUS\Desktop\mppz\lab11\task1\builder\obj\Debug\net10.0\refint\builder.dll
+C:\Users\VICTUS\Desktop\mppz\lab11\task1\builder\obj\Debug\net10.0\builder.pdb
+C:\Users\VICTUS\Desktop\mppz\lab11\task1\builder\obj\Debug\net10.0\builder.genruntimeconfig.cache
+C:\Users\VICTUS\Desktop\mppz\lab11\task1\builder\obj\Debug\net10.0\ref\builder.dll

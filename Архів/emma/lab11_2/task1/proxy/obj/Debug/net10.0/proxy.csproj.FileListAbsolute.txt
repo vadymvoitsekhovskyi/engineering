@@ -1,0 +1,29 @@
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_2\task1\proxy\bin\Debug\net10.0\proxy.exe
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_2\task1\proxy\bin\Debug\net10.0\proxy.deps.json
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_2\task1\proxy\bin\Debug\net10.0\proxy.runtimeconfig.json
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_2\task1\proxy\bin\Debug\net10.0\proxy.dll
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_2\task1\proxy\bin\Debug\net10.0\proxy.pdb
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_2\task1\proxy\obj\Debug\net10.0\proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_2\task1\proxy\obj\Debug\net10.0\proxy.AssemblyInfoInputs.cache
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_2\task1\proxy\obj\Debug\net10.0\proxy.AssemblyInfo.cs
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_2\task1\proxy\obj\Debug\net10.0\proxy.csproj.CoreCompileInputs.cache
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_2\task1\proxy\obj\Debug\net10.0\proxy.sourcelink.json
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_2\task1\proxy\obj\Debug\net10.0\proxy.dll
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_2\task1\proxy\obj\Debug\net10.0\refint\proxy.dll
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_2\task1\proxy\obj\Debug\net10.0\proxy.pdb
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_2\task1\proxy\obj\Debug\net10.0\proxy.genruntimeconfig.cache
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\lab11_2\task1\proxy\obj\Debug\net10.0\ref\proxy.dll
+C:\Users\VICTUS\Desktop\mppz\lab11_2\task1\proxy\bin\Debug\net10.0\proxy.exe
+C:\Users\VICTUS\Desktop\mppz\lab11_2\task1\proxy\bin\Debug\net10.0\proxy.deps.json
+C:\Users\VICTUS\Desktop\mppz\lab11_2\task1\proxy\bin\Debug\net10.0\proxy.runtimeconfig.json
+C:\Users\VICTUS\Desktop\mppz\lab11_2\task1\proxy\bin\Debug\net10.0\proxy.dll
+C:\Users\VICTUS\Desktop\mppz\lab11_2\task1\proxy\bin\Debug\net10.0\proxy.pdb
+C:\Users\VICTUS\Desktop\mppz\lab11_2\task1\proxy\obj\Debug\net10.0\proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\Desktop\mppz\lab11_2\task1\proxy\obj\Debug\net10.0\proxy.AssemblyInfoInputs.cache
+C:\Users\VICTUS\Desktop\mppz\lab11_2\task1\proxy\obj\Debug\net10.0\proxy.AssemblyInfo.cs
+C:\Users\VICTUS\Desktop\mppz\lab11_2\task1\proxy\obj\Debug\net10.0\proxy.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\Desktop\mppz\lab11_2\task1\proxy\obj\Debug\net10.0\proxy.dll
+C:\Users\VICTUS\Desktop\mppz\lab11_2\task1\proxy\obj\Debug\net10.0\refint\proxy.dll
+C:\Users\VICTUS\Desktop\mppz\lab11_2\task1\proxy\obj\Debug\net10.0\proxy.pdb
+C:\Users\VICTUS\Desktop\mppz\lab11_2\task1\proxy\obj\Debug\net10.0\proxy.genruntimeconfig.cache
+C:\Users\VICTUS\Desktop\mppz\lab11_2\task1\proxy\obj\Debug\net10.0\ref\proxy.dll

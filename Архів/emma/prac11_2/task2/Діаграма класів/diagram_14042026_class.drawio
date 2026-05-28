@@ -1,0 +1,44 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Сторінка-1" id="SnH4_LLhP73FAAbuUQEH">
+    <mxGraphModel dx="1248" dy="474" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Gw13WGDbnEXspfxcFHDM-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Times New Roman;fillColor=none;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;font&gt;&lt;i&gt;&amp;lt;&amp;lt;Abstract Class&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;span style=&quot;font-style: italic; text-align: start; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;CourseComponent&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font&gt;&lt;span style=&quot;white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;#name : String&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font&gt;+CourseComponent(name : String)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font&gt;+Display(indent : Integer) : void&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font&gt;+Add(component : CourseComponent) : void&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font&gt;+Remove(component : CourseComponent) : void&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="320" x="520" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gw13WGDbnEXspfxcFHDM-3" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=none;" value="&lt;span style=&quot;font-weight: 400; text-align: start; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Module&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="160" width="290" x="150" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Gw13WGDbnEXspfxcFHDM-4" parent="Gw13WGDbnEXspfxcFHDM-3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;-components: List&amp;lt;CourseComponent&amp;gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="290" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Gw13WGDbnEXspfxcFHDM-5" parent="Gw13WGDbnEXspfxcFHDM-3" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="290" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Gw13WGDbnEXspfxcFHDM-6" parent="Gw13WGDbnEXspfxcFHDM-3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;+Module(name : String)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;+Display(indent : Integer) : void&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;+Add(component : CourseComponent) : void&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;+Remove(component : CourseComponent) : void&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="290" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gw13WGDbnEXspfxcFHDM-7" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=none;" value="&lt;span style=&quot;font-weight: 400; text-align: start; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Lesson&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="160" width="320" x="520" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Gw13WGDbnEXspfxcFHDM-10" parent="Gw13WGDbnEXspfxcFHDM-7" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;+Lesson(name : String)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;+Display(indent : Integer) : void&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;+Add(component : CourseComponent) : void&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;+Remove(component : CourseComponent) : void&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="134" width="320" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Gw13WGDbnEXspfxcFHDM-11" edge="1" parent="1" source="Gw13WGDbnEXspfxcFHDM-7" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Gw13WGDbnEXspfxcFHDM-2" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="670" y="370" as="sourcePoint" />
+            <mxPoint x="660" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gw13WGDbnEXspfxcFHDM-12" edge="1" parent="1" source="Gw13WGDbnEXspfxcFHDM-3" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Gw13WGDbnEXspfxcFHDM-2" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="290" y="280" as="sourcePoint" />
+            <mxPoint x="470" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

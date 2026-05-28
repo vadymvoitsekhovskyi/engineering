@@ -1,0 +1,29 @@
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task1\chain_of_responsibility\bin\Debug\net10.0\chain_of_responsibility.exe
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task1\chain_of_responsibility\bin\Debug\net10.0\chain_of_responsibility.deps.json
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task1\chain_of_responsibility\bin\Debug\net10.0\chain_of_responsibility.runtimeconfig.json
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task1\chain_of_responsibility\bin\Debug\net10.0\chain_of_responsibility.dll
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task1\chain_of_responsibility\bin\Debug\net10.0\chain_of_responsibility.pdb
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task1\chain_of_responsibility\obj\Debug\net10.0\chain_of_responsibility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task1\chain_of_responsibility\obj\Debug\net10.0\chain_of_responsibility.AssemblyInfoInputs.cache
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task1\chain_of_responsibility\obj\Debug\net10.0\chain_of_responsibility.AssemblyInfo.cs
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task1\chain_of_responsibility\obj\Debug\net10.0\chain_of_responsibility.csproj.CoreCompileInputs.cache
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task1\chain_of_responsibility\obj\Debug\net10.0\chain_of_responsibility.sourcelink.json
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task1\chain_of_responsibility\obj\Debug\net10.0\chain_of_responsibility.dll
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task1\chain_of_responsibility\obj\Debug\net10.0\refint\chain_of_responsibility.dll
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task1\chain_of_responsibility\obj\Debug\net10.0\chain_of_responsibility.pdb
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task1\chain_of_responsibility\obj\Debug\net10.0\chain_of_responsibility.genruntimeconfig.cache
+D:\Documents\ДУІКТ\3 курс\2 семестр\engineering\prac11_3_1\task1\chain_of_responsibility\obj\Debug\net10.0\ref\chain_of_responsibility.dll
+C:\Users\VICTUS\Desktop\mppz\prac11_3_1\task1\chain_of_responsibility\bin\Debug\net10.0\chain_of_responsibility.exe
+C:\Users\VICTUS\Desktop\mppz\prac11_3_1\task1\chain_of_responsibility\bin\Debug\net10.0\chain_of_responsibility.deps.json
+C:\Users\VICTUS\Desktop\mppz\prac11_3_1\task1\chain_of_responsibility\bin\Debug\net10.0\chain_of_responsibility.runtimeconfig.json
+C:\Users\VICTUS\Desktop\mppz\prac11_3_1\task1\chain_of_responsibility\bin\Debug\net10.0\chain_of_responsibility.dll
+C:\Users\VICTUS\Desktop\mppz\prac11_3_1\task1\chain_of_responsibility\bin\Debug\net10.0\chain_of_responsibility.pdb
+C:\Users\VICTUS\Desktop\mppz\prac11_3_1\task1\chain_of_responsibility\obj\Debug\net10.0\chain_of_responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\Desktop\mppz\prac11_3_1\task1\chain_of_responsibility\obj\Debug\net10.0\chain_of_responsibility.AssemblyInfoInputs.cache
+C:\Users\VICTUS\Desktop\mppz\prac11_3_1\task1\chain_of_responsibility\obj\Debug\net10.0\chain_of_responsibility.AssemblyInfo.cs
+C:\Users\VICTUS\Desktop\mppz\prac11_3_1\task1\chain_of_responsibility\obj\Debug\net10.0\chain_of_responsibility.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\Desktop\mppz\prac11_3_1\task1\chain_of_responsibility\obj\Debug\net10.0\chain_of_responsibility.dll
+C:\Users\VICTUS\Desktop\mppz\prac11_3_1\task1\chain_of_responsibility\obj\Debug\net10.0\refint\chain_of_responsibility.dll
+C:\Users\VICTUS\Desktop\mppz\prac11_3_1\task1\chain_of_responsibility\obj\Debug\net10.0\chain_of_responsibility.pdb
+C:\Users\VICTUS\Desktop\mppz\prac11_3_1\task1\chain_of_responsibility\obj\Debug\net10.0\chain_of_responsibility.genruntimeconfig.cache
+C:\Users\VICTUS\Desktop\mppz\prac11_3_1\task1\chain_of_responsibility\obj\Debug\net10.0\ref\chain_of_responsibility.dll

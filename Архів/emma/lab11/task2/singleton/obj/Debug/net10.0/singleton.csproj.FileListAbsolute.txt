@@ -1,0 +1,14 @@
+C:\Users\VICTUS\Desktop\mppz\lab11\task2\singleton\bin\Debug\net10.0\singleton.exe
+C:\Users\VICTUS\Desktop\mppz\lab11\task2\singleton\bin\Debug\net10.0\singleton.deps.json
+C:\Users\VICTUS\Desktop\mppz\lab11\task2\singleton\bin\Debug\net10.0\singleton.runtimeconfig.json
+C:\Users\VICTUS\Desktop\mppz\lab11\task2\singleton\bin\Debug\net10.0\singleton.dll
+C:\Users\VICTUS\Desktop\mppz\lab11\task2\singleton\bin\Debug\net10.0\singleton.pdb
+C:\Users\VICTUS\Desktop\mppz\lab11\task2\singleton\obj\Debug\net10.0\singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\Desktop\mppz\lab11\task2\singleton\obj\Debug\net10.0\singleton.AssemblyInfoInputs.cache
+C:\Users\VICTUS\Desktop\mppz\lab11\task2\singleton\obj\Debug\net10.0\singleton.AssemblyInfo.cs
+C:\Users\VICTUS\Desktop\mppz\lab11\task2\singleton\obj\Debug\net10.0\singleton.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\Desktop\mppz\lab11\task2\singleton\obj\Debug\net10.0\singleton.dll
+C:\Users\VICTUS\Desktop\mppz\lab11\task2\singleton\obj\Debug\net10.0\refint\singleton.dll
+C:\Users\VICTUS\Desktop\mppz\lab11\task2\singleton\obj\Debug\net10.0\singleton.pdb
+C:\Users\VICTUS\Desktop\mppz\lab11\task2\singleton\obj\Debug\net10.0\singleton.genruntimeconfig.cache
+C:\Users\VICTUS\Desktop\mppz\lab11\task2\singleton\obj\Debug\net10.0\ref\singleton.dll
